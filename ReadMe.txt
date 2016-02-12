@@ -1,9 +1,9 @@
 ﻿station-demo
 
-Name:Tang Jian Ping
+Name:JianPing Tang
 
 
-This is a render scene about a train station.
+This is a rendered scene about a train station.
 I design the scene in 3Ds Max and I use DXUT to build a program. Although there is a lot of texture mapping bug, but I still working on it.
 -------------------------------------------------
 Bin folder contains executable files.
